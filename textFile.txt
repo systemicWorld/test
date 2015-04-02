@@ -12,3 +12,6 @@ Ignoring things
 
 Viewing the commit logs
 git log - shows all of the commits that were made
+
+git log --oneline
+displays all the commits with just the comment from the commiter
