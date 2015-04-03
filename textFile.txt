@@ -24,6 +24,12 @@ git diff <old commit> <new commit> gives the difference between two commits
 Commits
 We can commit selected chages by using git commit -p
 
+
 Branches
 Git branches are like different universes we can expirement in git branch shows all our branches
 To create a new branch, use git branch <name>
+
+Checkout
+git checkout <branch name> switches to the branch.
+Branches aren't automatically updated.
+
