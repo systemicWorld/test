@@ -6,6 +6,7 @@ git status tells us the state of our working directory
 
 add
 git add tells git to track specific files or folders
+To stage certain changes with Path Mode, we use git add -p
 
 Ignoring things
 .gitignore files tell git what to completely ignore
